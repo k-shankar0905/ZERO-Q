@@ -1,0 +1,8 @@
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
